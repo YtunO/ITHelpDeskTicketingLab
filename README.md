@@ -21,13 +21,28 @@ This project demonstrates a simulated IT help desk workflow using Active Directo
 
 ## Workflow
 1. User becomes locked out after multiple failed login attempts.
-<img src="https://i.imgur.com/Ez8bWiD.png" width="600">
+   <img src="https://i.imgur.com/Ez8bWiD.png" width="500">
 
-3. User submits a password reset request through Jira Service Management.
-4. IT reviews and assigns the ticket.
-5. Account is unlocked and password reset in Active Directory.
-6. User logs in successfully on a domain-joined client.
-7. Ticket is documented and resolved.
+2. User submits a password reset request through Jira Service Management.
+   <img src="https://i.imgur.com/84h4dEC.png" width="500">
+   
+5. IT reviews and assigns the ticket.
+   <img src="https://i.imgur.com/bMonLop.png" width="500">
+   <img src="https://i.imgur.com/9DFHat1.png" width="500">
+  
+7. Account is unlocked and password reset in Active Directory.
+   <img src="https://i.imgur.com/IlmcMjl.png" width="500">
+   <img src="https://i.imgur.com/1Ycsj4R.png" width="500">
+   <img src="https://i.imgur.com/Zuss0R7.png" width="500">
+
+9. User logs in successfully on a domain-joined client.
+  <img src="https://i.imgur.com/fQhg7p0.png" width="7500">
+  <img src="https://i.imgur.com/7ktkn9R.png" width="500">
+  <img src="https://i.imgur.com/M9kyeqN.png" width="500">
+
+11. Ticket is documented and resolved.
+  <img src="https://i.imgur.com/5DeBQt1.png" width="500">
+  <img src="https://i.imgur.com/VuoolEk.png" width="500">
 
 ## Key Skills Demonstrated
 - Active Directory user management
