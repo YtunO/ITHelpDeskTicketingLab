@@ -58,8 +58,8 @@ This project demonstrates a simulated IT help desk workflow using Active Directo
 
 ### 6. Ticket is documented and resolved
 <img src="https://i.imgur.com/5DeBQt1.png" width="500">
+<img src="https://i.imgur.com/nU5kWYI.png" width="500">
 
-<img
 
 
 ## Key Skills Demonstrated
