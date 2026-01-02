@@ -27,7 +27,7 @@ This project demonstrates a simulated IT help desk workflow using Active Directo
 ---
 
 ### 2. User submits a password reset request through Jira Service Management
-<img src="https://i.imgur.com/84h4dEC.png" width="500">
+<img src="https://i.imgur.com/eDk0Tcy.png" width="500">
 
 ---
 
