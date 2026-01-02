@@ -36,7 +36,7 @@ This project demonstrates a simulated IT help desk workflow using Active Directo
    <img src="https://i.imgur.com/Zuss0R7.png" width="500">
 
 9. User logs in successfully on a domain-joined client.
-  <img src="https://i.imgur.com/fQhg7p0.png" width="7500">
+  <img src="https://i.imgur.com/fQhg7p0.png" width="500">
   <img src="https://i.imgur.com/7ktkn9R.png" width="500">
   <img src="https://i.imgur.com/M9kyeqN.png" width="500">
 
