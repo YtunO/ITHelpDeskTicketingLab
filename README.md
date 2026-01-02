@@ -68,11 +68,6 @@ This project demonstrates a simulated IT help desk workflow using Active Directo
 - IT ticketing and incident management
 - Identity and Access Management (IAM)
 - Troubleshooting and documentation
-- PowerShell automation
-
-## Summary
-This project demonstrates a real-world IT help desk workflow using Active Directory and Jira Service Management. 
-A user becomes locked out after multiple failed login attempts, submits a password reset ticket, and the issue is resolved by an IT administrator through Active Directory. The workflow concludes with successful user login and ticket closure.
 
 ## Notes
 All users, domains, and data in this project are fictional and used for learning purposes.
