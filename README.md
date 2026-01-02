@@ -39,6 +39,8 @@ This project demonstrates a simulated IT help desk workflow using Active Directo
 ---
 
 ### 4. Account is unlocked and password is reset in Active Directory
+<img src="https://i.imgur.com/nU5kWYI.png" width="500">
+
 <img src="https://i.imgur.com/IlmcMjl.png" width="500">
 
 <img src="https://i.imgur.com/1Ycsj4R.png" width="500">
@@ -58,7 +60,6 @@ This project demonstrates a simulated IT help desk workflow using Active Directo
 
 ### 6. Ticket is documented and resolved
 <img src="https://i.imgur.com/5DeBQt1.png" width="500">
-<img src="https://i.imgur.com/nU5kWYI.png" width="500">
 
 
 
