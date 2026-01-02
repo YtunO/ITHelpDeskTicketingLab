@@ -22,68 +22,45 @@ This project demonstrates a simulated IT help desk workflow using Active Directo
 ## Workflow
 
 ### 1. User becomes locked out after multiple failed login attempts
-<p align="center">
-  <img src="https://i.imgur.com/Ez8bWiD.png" width="500">
-</p>
+<img src="https://i.imgur.com/Ez8bWiD.png" width="500">
 
 ---
 
 ### 2. User submits a password reset request through Jira Service Management
-<p align="center">
-  <img src="https://i.imgur.com/84h4dEC.png" width="500">
-</p>
+<img src="https://i.imgur.com/84h4dEC.png" width="500">
 
 ---
 
 ### 3. IT reviews and assigns the ticket
-<p align="center">
-  <img src="https://i.imgur.com/bMonLop.png" width="500">
-</p>
+<img src="https://i.imgur.com/bMonLop.png" width="500">
 
-<p align="center">
-  <img src="https://i.imgur.com/9DFHat1.png" width="500">
-</p>
+<img src="https://i.imgur.com/9DFHat1.png" width="500">
 
 ---
 
 ### 4. Account is unlocked and password is reset in Active Directory
-<p align="center">
-  <img src="https://i.imgur.com/IlmcMjl.png" width="500">
-</p>
+<img src="https://i.imgur.com/IlmcMjl.png" width="500">
 
-<p align="center">
-  <img src="https://i.imgur.com/1Ycsj4R.png" width="500">
-</p>
+<img src="https://i.imgur.com/1Ycsj4R.png" width="500">
 
-<p align="center">
-  <img src="https://i.imgur.com/Zuss0R7.png" width="500">
-</p>
+<img src="https://i.imgur.com/Zuss0R7.png" width="500">
 
 ---
 
 ### 5. User logs in successfully on a domain-joined client
-<p align="center">
-  <img src="https://i.imgur.com/fQhg7p0.png" width="500">
-</p>
+<img src="https://i.imgur.com/fQhg7p0.png" width="500">
 
-<p align="center">
-  <img src="https://i.imgur.com/7ktkn9R.png" width="500">
-</p>
+<img src="https://i.imgur.com/7ktkn9R.png" width="500">
 
-<p align="center">
-  <img src="https://i.imgur.com/M9kyeqN.png" width="500">
-</p>
+<img src="https://i.imgur.com/M9kyeqN.png" width="500">
 
 ---
 
 ### 6. Ticket is documented and resolved
-<p align="center">
-  <img src="https://i.imgur.com/5DeBQt1.png" width="500">
-</p>
+<img src="https://i.imgur.com/5DeBQt1.png" width="500">
 
-<p align="center">
-  <img src="https://i.imgur.com/VuoolEk.png" width="500">
-</p>
+<img
+
 
 ## Key Skills Demonstrated
 - Active Directory user management
