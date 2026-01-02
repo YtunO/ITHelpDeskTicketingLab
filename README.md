@@ -1,8 +1,4 @@
-# ITHelpDeskTicketingLab
-Simulated IT help desk lab demonstrating password reset and account lockout resolution using Active Directory and Jira Service Management.
-
-# Active Directory Password Reset & Ticketing Lab
-
+# ITHelpDeskTicketingLab (Jira + Active Directory)
 ## Overview
 This project demonstrates a simulated IT help desk workflow using Active Directory and Jira Service Management. It focuses on resolving password reset and account lockout requests submitted through a service portal.
 
