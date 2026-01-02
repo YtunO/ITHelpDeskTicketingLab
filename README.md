@@ -50,16 +50,18 @@ This project demonstrates a simulated IT help desk workflow using Active Directo
 ---
 
 ### 5. User logs in successfully on a domain-joined client
+<img src="https://i.imgur.com/M9kyeqN.png" width="500">
+
 <img src="https://i.imgur.com/fQhg7p0.png" width="500">
 
 <img src="https://i.imgur.com/7ktkn9R.png" width="500">
-
-<img src="https://i.imgur.com/M9kyeqN.png" width="500">
 
 ---
 
 ### 6. Ticket is documented and resolved
 <img src="https://i.imgur.com/5DeBQt1.png" width="500">
+
+<img src="https://i.imgur.com/zLcvkXW.png" width="500">
 
 
 
