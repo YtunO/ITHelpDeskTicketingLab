@@ -21,8 +21,11 @@ This project demonstrates a simulated IT help desk workflow using Active Directo
 
 ## Workflow
 1. User becomes locked out after multiple failed login attempts.
-[
-](https://imgur.com/JqwHPA0)
+
+ <blockquote class="imgur-embed-pub" lang="en" data-id="a/4GWMpaK" data-context="false" ><a href="//imgur.com/a/4GWMpaK"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+<img width="1169" height="688" alt="Topology" src="https://github.com/user-attachments/assets/ced4b73b-6f9e-48bf-bdff-cd6cdb4ce76f" />
+
 3. User submits a password reset request through Jira Service Management.
 4. IT reviews and assigns the ticket.
 5. Account is unlocked and password reset in Active Directory.
